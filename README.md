@@ -36,9 +36,11 @@ Delimited |  .csv; .tab
 ## Terms and conditions ##
 
 The Medical Data Universe (MDU) is intending to establish a relationship between individuals and the MDU github repository for the purposes of managing the data sharing on the individual’s behalf. It provides complete control over the collected copy of the participant’s data to others. 
-* This document does not authorize the MDU github repository to function as a healthcare provider. 
-* The participant’s copy of medical data does not replace existing provider-maintained records that law and regulation require healthcare providers to maintain, nor does it have any impact on provider responsibility to report public health data or perform any other functions related to medical records as may be required by law.  
-* The individual and MDU, authorizes MDU, on participant’s behalf, to acquire, receive, collective, maintain, secure, share, and delete the medical data as granted pursuant to this Agreement once the data shared through the MDU github repository.
+* By sharing data through this platform on git, any data pulled and pushed from the repository is accessible based github processes and you are agreeing to host your dataset here.
+* This does not authorize the MDU github repository to function as a healthcare provider. 
+* The participant’s copy of medical data does not replace existing provider-maintained records that law and regulation require healthcare providers to maintain, nor does it have any impact on provider responsibility to report public health data or perform any other functions related to medical records as may be required by law. 
+* The individual and MDU, authorizes MDU, on participant’s behalf, to acquire, receive, collective, maintain, share, and delete the medical data as granted pursuant to this Agreement once the data shared through the MDU github repository.
 * Participant must cite the original source of the shared data. 
 * MDU shall not use or further disclose Participant’s data, either in whole or in part, other than as permitted by this Agreement.
+
 
