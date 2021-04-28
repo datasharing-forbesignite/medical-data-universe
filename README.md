@@ -1,3 +1,5 @@
+![Alt text](images/logo.png)
+
 # Welcome to the Medical Data Universe (MDU) repository! 
 
 MDU is an open-access repository to support sharing of COVID-19 data.
