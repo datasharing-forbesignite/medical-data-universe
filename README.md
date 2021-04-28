@@ -13,17 +13,22 @@ Ever since the World Health Organization declared the COVID-19 pandemic, there h
 
 There exists many notable initiatives that aim to improve sharing of medical data at local, national, and international levels. We compiled a list [here for reference](files/list-of-data-platforms.csv). We summarize the process to share/access data and incentives to share data. Yet, this hyper-fragmentation of efforts is challenging. A **collaborative and open approach** is much needed to allow researchers to access and use data and software to tackle challenges related to healthcare, especially in the context of COVID-19.
 
-(TODO: create doi for citations)
+(TODO: create doi for citations once it's public)
 
 ## Project summary ##
-This is an effort to compile an open repository of de-identified clinical and demographical data of COVID patients. By building this repository, we hope to facilitate data access and accelerate AI-powered research on COVID-19 signs, symptoms, stages, and care plans. Our efforts will focus on collecting de-identified datasets contributed by researchers.
-Data will be publicly available for researchers across industries to use.
 
-## Who we are ## 
-TODO
+MDU is an open repository of de-identified clinical data related to COVID-19, which may include, but is not limited to, patient data and clinical trials data. Through this repository, we hope to facilitate data access and accelerate AI research on COVID-19 diagnosis, prognosis, and management. Data is available for use for research purposes only. For commercial uses, please email us at <datasharing.ignite@gmail.com>.
+
+## Who we are ##
+
+We are a team of six women who are passionate about making the world a better place through democratizing access to medical data for research.
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|![Alt text](images/challenges.png)  Annie Mathew |  ![Alt text](images/challenges.png) Cynthia Ike |![Alt text](images/challenges.png) Farah Shamout |
+|![Alt text](images/challenges.png) Manal Alomary  | ![Alt text](images/challenges.png) Maram Abadi |![Alt text](images/challenges.png) Trisha Black|
 
 
-## Repository Content ## 
+## Repository Contents ##
 TODO
 
 ## Types of data ##
