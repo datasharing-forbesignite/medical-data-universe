@@ -11,23 +11,25 @@ Ever since the World Health Organization declared the COVID-19 pandemic, there h
 ![Alt text](images/challenges.png)
 
 
-There exists many initiatives that aim to improve data sharing for COVID-19 at local, national, and international levels. Yet, this hyper-fragmentation of efforts is challenging. A collaborative and open approach is much needed to allow researchers to access and use data and software to tackle challenges related to the disease.
+There exists many initiatives that aim to improve data sharing for COVID-19 at local, national, and international levels. Yet, this hyper-fragmentation of efforts is challenging. A collaborative and open approach is much needed to allow researchers to access and use data and software to tackle challenges related to the disease. (TODO: add link to our sheet)
 
-## Project Summary: ##
+(TODO: create doi for citations)
+
+## Project summary ##
 This is an effort to compile an open repository of de-identified clinical and demographical data of COVID patients. By building this repository, we hope to facilitate data access and accelerate AI-powered research on COVID-19 signs, symptoms, stages, and care plans. Our efforts will focus on collecting de-identified datasets contributed by researchers.
 Data will be publicly available for researchers across industries to use.
 
-## Types of data needed: ##
+## Types of data ##
 De-identified clinical and demographical data of COVID patients from across all countries and healthcare sectors.
 
-## How to contribute ## 
+## Interested in contributing? ## 
 * See [SCHEMA.md](https://docs.google.com/spreadsheets/d/1dOe24Rc0PhB8YFD0jQ0BJS3RI_Pg5oVA2dH1J5TTsEk/edit?usp=sharing "Schema.MD") for more information on the metadata schema.
 * Read our Terms and conditions below
 * Submit data directly to the project.
 * Upload any supplementary materials.
 Contact us for any additional information.
 
-### Formats: ###
+### Formats ###
 To ensure accessibility of data, we’ll accept data formats that are universally used. Accepted data formats:
 
 Datasets  | Extension
