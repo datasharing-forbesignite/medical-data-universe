@@ -37,11 +37,16 @@ TODO
 De-identified clinical and demographical data of COVID patients from across all countries and healthcare sectors.
 
 ## Interested in contributing? ## 
-* See [SCHEMA.md](https://docs.google.com/spreadsheets/d/1dOe24Rc0PhB8YFD0jQ0BJS3RI_Pg5oVA2dH1J5TTsEk/edit?usp=sharing "Schema.MD") for more information on the metadata schema.
-* Read our Terms and conditions below
-* Submit data directly to the project.
-* Upload any supplementary materials.
-Contact us for any additional information.
+
+* Read and accept the terms and conditions below. 
+* Remove all protected health information from your dataset. The following data must be removed from the dataset before uploading. For a comprehensive guide for de-identifying your data visit the link [here](https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html#standard).
+* Submit the data directly to the project.
+* Include a README file that includes: 
+  * a title and a brief description of the dataset.
+  * a statement that the study protocol was approved by relevant Institutional Review Boards (IRBs) or ethics committees. If human participants gave written informed consent, then please state this.
+  * For clinical trials: Please specify trial registration number and registry name.
+* See the suggested [SCHEMA.md](https://docs.google.com/spreadsheets/d/1dOe24Rc0PhB8YFD0jQ0BJS3RI_Pg5oVA2dH1J5TTsEk/edit?usp=sharing "Schema.MD") for more information on the metadata schema.
+
 
 ### Formats ###
 To ensure accessibility of data, we’ll accept data formats that are universally used. Accepted data formats:
