@@ -25,7 +25,7 @@ We are a team of six women who are passionate about making the world a better pl
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |![Alt text](images/annie.jpg)  **Annie Mathew** |  ![Alt text](images/annie.jpg) **Cynthia Ike** |![Alt text](images/farah.jpg) **Farah Shamout** |
-| Director Developer Relations, Microsoft Asia Pacific |  Executive Director, Circuit Pointe | Assistant Professor, NYU Abu Dhabi |
+| Director Developer Relations, Microsoft Asia Pacific |  Executive Director, Circuit Pointe | Assistant Professor Emerging Scholar, NYU Abu Dhabi |
 |![Alt text](images/annie.jpg) **Manal Alomary**  | ![Alt text](images/maram.jpg) **Maram Abadi** |![Alt text](images/annie.jpg) **Trisha Black** |
 | Director of Operations and Medical Affairs, Altibbi |  Postdoctoral Research Fellow, KAUST | Manager, Analyst Relations & Strategy, IBM |
 
@@ -71,8 +71,8 @@ The Medical Data Universe (MDU) is intending to establish a relationship between
 * MDU shall not use or further disclose Participant’s data, either in whole or in part, other than as permitted by this Agreement.
 
 ## Reference ## 
-if you use our repo, please cite: 
-and give us a :star:
+If you use our repository or find it useful at all, please cite: TODO
+and don't forget to give our repository a :star:! 
 
 ## Acknowledgements ##
-todo
+We would like to thank all of those who contributed to the fruition of our idea, including TODO. We would also link to express our gratitude to the Forbes Ingite Fellowship for bringing our team together and providing valuable resources.
