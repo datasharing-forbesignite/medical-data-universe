@@ -19,6 +19,9 @@ There exists many initiatives that aim to improve data sharing for COVID-19 at l
 This is an effort to compile an open repository of de-identified clinical and demographical data of COVID patients. By building this repository, we hope to facilitate data access and accelerate AI-powered research on COVID-19 signs, symptoms, stages, and care plans. Our efforts will focus on collecting de-identified datasets contributed by researchers.
 Data will be publicly available for researchers across industries to use.
 
+## Who we are ## 
+TODO
+
 ## Types of data ##
 De-identified clinical and demographical data of COVID patients from across all countries and healthcare sectors.
 
@@ -39,6 +42,7 @@ Stata data files  | .dta
 R  | .rdata
 Excel  | .xlsx
 Delimited |  .csv; .tab
+
 
 ## Terms and conditions ##
 
