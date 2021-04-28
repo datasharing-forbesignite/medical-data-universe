@@ -6,7 +6,7 @@ MDU is an open-access repository to support sharing of COVID-19 data.
 
 Ever since the World Health Organization declared the COVID-19 pandemic, there have been numerous calls to accelerate and improve data sharing. Nonprofit organizations, universities, and other institutions worldwide are turning to artificial intelligence (AI) to better understand the disease and its impact on human health. However, AI models require a lot of data both during training to compute accurate predictions and during testing to ensure generalizability across unseen cohorts. Although data sharing is seen now, more than ever, as an ethical and moral obligation in research, there are many obstacles that may hinder the process: limited availability of data, poor data quality, concerns over data governance, and concerns over ethical use of data (including accountability and liability for data applications) are among the main ones (TODO: make a figure).
 
-![Alt text](images/challenges.png){:height="36px" width="36px"}.
+![Alt text](images/challenges.png)
 
 
 There exists many initiatives that aim to improve data sharing for COVID-19 at local, national, and international levels. Yet, this hyper-fragmentation of efforts is challenging. A collaborative and open approach is much needed to allow researchers to access and use data and software to tackle challenges related to the disease.
