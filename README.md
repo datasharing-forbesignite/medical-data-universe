@@ -22,6 +22,10 @@ Data will be publicly available for researchers across industries to use.
 ## Who we are ## 
 TODO
 
+
+## Repository Content ## 
+TODO
+
 ## Types of data ##
 De-identified clinical and demographical data of COVID patients from across all countries and healthcare sectors.
 
@@ -53,6 +57,10 @@ The Medical Data Universe (MDU) is intending to establish a relationship between
 * The individual and MDU, authorizes MDU, on participant’s behalf, to acquire, receive, collective, maintain, share, and delete the medical data as granted pursuant to this Agreement once the data shared through the MDU github repository.
 * Participant must cite the original source of the shared data. 
 * MDU shall not use or further disclose Participant’s data, either in whole or in part, other than as permitted by this Agreement.
+
+## Reference ## 
+if you use our repo, please cite: 
+and give us a :star:
 
 ## Acknowledgements ##
 todo
