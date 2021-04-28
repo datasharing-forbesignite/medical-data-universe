@@ -11,7 +11,7 @@ Ever since the World Health Organization declared the COVID-19 pandemic, there h
 ![Alt text](images/challenges.png)
 
 
-There exists many initiatives that aim to improve data sharing for COVID-19 at local, national, and international levels. Yet, this hyper-fragmentation of efforts is challenging. A collaborative and open approach is much needed to allow researchers to access and use data and software to tackle challenges related to the disease. (TODO: add link to our sheet)
+There exists many notable initiatives that aim to improve sharing of medical data at local, national, and international levels. We compiled a list [here for reference](files/list-of-data-platforms.csv). We summarize the process to share/access data and incentives to share data. Yet, this hyper-fragmentation of efforts is challenging. A **collaborative and open approach** is much needed to allow researchers to access and use data and software to tackle challenges related to healthcare, especially in the context of COVID-19.
 
 (TODO: create doi for citations)
 
