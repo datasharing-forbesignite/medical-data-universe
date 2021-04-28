@@ -2,7 +2,7 @@
 
 # Welcome to the Medical Data Universe (MDU) repository! 
 
-MDU is an open-access repository to support sharing of COVID-19 data.
+MDU is an open-access repository to support sharing of COVID-19 data. If you are interested in using real-world data for research or in contributing data for the betterment of society, then you are at the right place. 
 
 ## Background ##
 
