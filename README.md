@@ -24,8 +24,8 @@ MDU is an open repository of de-identified clinical data related to COVID-19, wh
 We are a team of six women who are passionate about making the world a better place through democratizing access to medical data for research.
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|![Alt text](images/challenges.png)  Annie Mathew |  ![Alt text](images/challenges.png) Cynthia Ike |![Alt text](images/challenges.png) Farah Shamout |
-|![Alt text](images/challenges.png) Manal Alomary  | ![Alt text](images/challenges.png) Maram Abadi |![Alt text](images/challenges.png) Trisha Black|
+|![Alt text](images/annie.jpeg)  Annie Mathew |  ![Alt text](images/annie.jpeg) Cynthia Ike |![Alt text](images/farah) Farah Shamout |
+|![Alt text](images/annie.jpeg) Manal Alomary  | ![Alt text](images/maram.jpg) Maram Abadi |![Alt text](images/annie.jpeg) Trisha Black|
 
 
 ## Repository Contents ##
