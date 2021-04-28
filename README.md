@@ -19,9 +19,9 @@ There exists many notable initiatives that aim to improve sharing of medical dat
 
 MDU is an open repository of de-identified clinical data related to COVID-19, which may include, but is not limited to, patient data and clinical trials data. Through this repository, we hope to facilitate data access and accelerate AI research on COVID-19 diagnosis, prognosis, and management. Data is available for use for research purposes only. For commercial uses, please email us at <datasharing.ignite@gmail.com>.
 
-## Who we are ##
+## Who we are :two_women_holding_hands::two_women_holding_hands::two_women_holding_hands: ## 
 
-We are a team of six women who are passionate about making the world a better place through democratizing access to medical data for research.
+We are a team of six women who are passionate about making the world a better place through democratizing access to medical data for research. 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |![Alt text](images/annie.jpg)  **Annie Mathew** |  ![Alt text](images/annie.jpg) **Cynthia Ike** |![Alt text](images/farah.jpg) **Farah Shamout** |
