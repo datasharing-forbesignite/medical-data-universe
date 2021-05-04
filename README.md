@@ -45,7 +45,7 @@ De-identified clinical and demographical data of COVID patients from across all 
   * a title and a brief description of the dataset.
   * a statement that the study protocol was approved by relevant Institutional Review Boards (IRBs) or ethics committees. If human participants gave written informed consent, then please state this.
   * For clinical trials: Please specify trial registration number and registry name.
-* See the suggested [SCHEMA.md](https://github.com/datasharing-forbesignite/medical-data-universe/blob/c654bbb24787a0010f1ad8ec53a392fb942ea0a3/Schema.MD "Schema.MD") for more information on the metadata schema.
+* See the suggested [Schema.md](https://github.com/datasharing-forbesignite/medical-data-universe/blob/c654bbb24787a0010f1ad8ec53a392fb942ea0a3/Schema.MD "Schema.MD") for more information on the metadata schema.
 
 
 ### Formats ###
