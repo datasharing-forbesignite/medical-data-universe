@@ -39,7 +39,7 @@ De-identified clinical and demographical data of COVID patients from across all 
 ## Interested in contributing? ## 
 
 * Read and accept the terms and conditions below. 
-* Remove all protected health information from your dataset (a list of the HIPAA protected information can be found [here](files/phi.md)). The following data must be removed from the dataset before uploading. For a comprehensive guide for de-identifying your data visit the link [here](https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html#standard).
+* Remove all protected health information from your dataset before uploading (a list of the HIPAA protected information can be found [here](files/phi.md)). For a comprehensive guide for de-identifying your data visit the link [here](https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html#standard).
 * Submit the data directly to the project.
 * Include a README file that includes: 
   * a title and a brief description of the dataset.
