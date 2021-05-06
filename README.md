@@ -60,6 +60,11 @@ Excel  | .xlsx
 Delimited |  .csv; .tab
 
 
+### How to increase the accessibility and reusability of your data ###
+* Give each column a descriptive heading.
+* When sharing datasets with multiple files or tables, submit each file/table as a seperate file. Give each data file a name that appropriately reflects its content.
+* Do not use color coding (machine-based data mining cannot interpret this).
+
 ## Terms and conditions ##
 
 The Medical Data Universe (MDU) is intending to establish a relationship between individuals and the MDU github repository for the purposes of managing the data sharing on the individual’s behalf. It provides complete control over the collected copy of the participant’s data to others. 
