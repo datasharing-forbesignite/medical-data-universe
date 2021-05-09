@@ -36,7 +36,7 @@ We are a team of six women who are passionate about making the world a better pl
 ## Types of data ##
 De-identified clinical and demographical data of COVID patients from across all countries and healthcare sectors.
 
-## Interested in contributing? ## 
+## Interested in contributing data? ## 
 
 * Read and accept the terms and conditions below. 
 * Create a folder under /datasets with the following label: "LastnameMonthYear"
