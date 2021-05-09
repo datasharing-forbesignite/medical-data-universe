@@ -39,10 +39,10 @@ De-identified clinical and demographical data of COVID patients from across all 
 ## Interested in contributing? ## 
 
 * Read and accept the terms and conditions below. 
-* Create a folder under /datasets/ with the following label: "LastnameMonthYear"
+* Create a folder under /datasets with the following label: "LastnameMonthYear"
 * Remove all protected health information from your dataset before uploading (a list of US specific HIPAA protected information can be found [here](files/phi.md)), all datasets should be de-identified in accordance with the Safe Harbor method before submission. For a comprehensive guide for de-identifying your data visit the link [here](https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html#standard). Note that other jurisdictions may have other data de-identifying standards.
 * Submit the data directly to the project.
-* Include a README file that includes: 
+* Include a README file that includes (we also provided a template for you to use in /datasets): 
   * Standards used to de-identify data (e.g., HIPAA).
   * A title and a brief description of the dataset.
   * Any references to relevant studies that must be cited.
