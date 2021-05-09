@@ -39,7 +39,8 @@ De-identified clinical and demographical data of COVID patients from across all 
 ## Interested in contributing data? ## 
 
 * Read and accept the terms and conditions below. 
-* Create a folder under /datasets with the following label: "LastnameMonthYear"
+* Git clone our repository on your local computer using the following command: git clone https://github.com/datasharing-forbesignite/medical-data-universe.git
+* Create a folder in the downloaded repo under /datasets with the following label: "LastnameMonthYear"
 * Remove all protected health information from your dataset before uploading (a list of US specific HIPAA protected information can be found [here](files/phi.md)), all datasets should be de-identified in accordance with the Safe Harbor method before submission. For a comprehensive guide for de-identifying your data visit the link [here](https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html#standard). Note that other jurisdictions may have other data de-identifying standards.
 * Submit the data directly to the project.
 * Include a README file that includes (we also provided a template for you to use in /datasets): 
@@ -49,6 +50,7 @@ De-identified clinical and demographical data of COVID patients from across all 
   * A statement that the study protocol was approved by relevant Institutional Review Boards (IRBs) or ethics committees. If human participants gave written informed consent, then please state this.
   * For clinical trials: Please specify trial registration number and registry name.
   * See the suggested [Schema.md](https://github.com/datasharing-forbesignite/medical-data-universe/blob/c654bbb24787a0010f1ad8ec53a392fb942ea0a3/Schema.MD "Schema.MD") for more information on the metadata schema.
+  * Once you are done, run the following commands: (1) git add . (2) git commit -m "commit message" and (3) git push
 
 
 ### Formats ###
