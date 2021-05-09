@@ -1,10 +1,11 @@
 ## Interested in contributing?
 
-* Create a folder with the following label: LastnameMonthYear
-* Create a README file using the following template:
+First, create a folder with the following label: LastnameMonthYear
+
+Second, create a README file using the following template:
 
 ### Title of the study 
-  * Short description: XXXX
+  * Short description of dataset: XXXX
   * Link to original paper that released the dataset: XXXX
   * If you use this dataset, please use the following citation: [citation]
   * Standard used for data de-identification: e.g., HIPAA (USA)
