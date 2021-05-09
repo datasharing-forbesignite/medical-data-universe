@@ -90,4 +90,4 @@ The Medical Data Universe (MDU) is intending to establish a relationship between
 If you use our repository or find it useful at all, don't forget to give our repository a :star:! 
 
 ## Acknowledgements ##
-We would like to thank all of those who contributed to the fruition of our idea. We would also link to express our gratitude to the Forbes Ingite Fellowship for bringing our team together and providing valuable resources.
+We would like to thank all of those who contributed to the fruition of our idea. We would also link to express our gratitude to the Forbes Ignite Fellowship for bringing our team together and providing valuable resources.
