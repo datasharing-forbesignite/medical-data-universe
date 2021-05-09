@@ -61,7 +61,9 @@ Stata data files  | .dta
 R  | .rdata
 Excel  | .xlsx
 Delimited |  .csv; .tab
+Images | .dcm; .png; .jpeg
 
+If you have a different format from the data types listed above, please reach out!
 
 ### How to increase the accessibility and reusability of your data ###
 * Give each column a descriptive heading.
