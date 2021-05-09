@@ -50,7 +50,7 @@ De-identified clinical and demographical data of COVID patients from across all 
   * A statement that the study protocol was approved by relevant Institutional Review Boards (IRBs) or ethics committees. If human participants gave written informed consent, then please state this.
   * For clinical trials: Please specify trial registration number and registry name.
   * See the suggested [Schema.md](https://github.com/datasharing-forbesignite/medical-data-universe/blob/c654bbb24787a0010f1ad8ec53a392fb942ea0a3/Schema.MD "Schema.MD") for more information on the metadata schema.
-  * Once you are done, run the following commands: (1) git add . (2) git commit -m "commit message" and (3) git push
+* Once you are done, run the following commands: (1) git add . (2) git commit -m "commit message" and (3) git push
 
 
 ### Formats ###
