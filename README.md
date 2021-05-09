@@ -66,9 +66,15 @@ Images | .dcm; .png; .jpeg
 If you have a different format from the data types listed above, please reach out!
 
 ### How to increase the accessibility and reusability of your data ###
-* Give each column a descriptive heading.
+* Give each column a descriptive heading in the case of tabular data.
 * When sharing datasets with multiple files or tables, submit each file/table as a seperate file. Give each data file a name that appropriately reflects its content.
 * Do not use color coding (machine-based data mining cannot interpret this).
+
+## Interested in using data? ## 
+* Read and accept the terms and conditions below. 
+* Git clone our repository on your local computer using the following command: git clone https://github.com/datasharing-forbesignite/medical-data-universe.git
+* Access all the available datasets in the /datasets folder
+* Cite the references provided by the datasets you find useful 
 
 ## Terms and conditions ##
 
