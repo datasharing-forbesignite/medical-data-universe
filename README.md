@@ -39,14 +39,16 @@ De-identified clinical and demographical data of COVID patients from across all 
 ## Interested in contributing? ## 
 
 * Read and accept the terms and conditions below. 
-* Remove all protected health information from your dataset before uploading (a list of US specific HIPAA protected information can be found [here](files/phi.md)), all datasets should be de-identified in accordance with the Safe Harbor method before submission. For a comprehensive guide for de-identifying your data visit the link [here](https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html#standard). 
+* Create a folder under /datasets/ with the following label: "LastnameMonthYear"
+* Remove all protected health information from your dataset before uploading (a list of US specific HIPAA protected information can be found [here](files/phi.md)), all datasets should be de-identified in accordance with the Safe Harbor method before submission. For a comprehensive guide for de-identifying your data visit the link [here](https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html#standard). Note that other jurisdictions may have other data de-identifying standards.
 * Submit the data directly to the project.
 * Include a README file that includes: 
-  * standards used to de-identify data (e.g., HIPAA)
-  * a title and a brief description of the dataset.
-  * a statement that the study protocol was approved by relevant Institutional Review Boards (IRBs) or ethics committees. If human participants gave written informed consent, then please state this.
+  * Standards used to de-identify data (e.g., HIPAA).
+  * A title and a brief description of the dataset.
+  * Any references to relevant studies that must be cited.
+  * A statement that the study protocol was approved by relevant Institutional Review Boards (IRBs) or ethics committees. If human participants gave written informed consent, then please state this.
   * For clinical trials: Please specify trial registration number and registry name.
-* See the suggested [Schema.md](https://github.com/datasharing-forbesignite/medical-data-universe/blob/c654bbb24787a0010f1ad8ec53a392fb942ea0a3/Schema.MD "Schema.MD") for more information on the metadata schema.
+  * See the suggested [Schema.md](https://github.com/datasharing-forbesignite/medical-data-universe/blob/c654bbb24787a0010f1ad8ec53a392fb942ea0a3/Schema.MD "Schema.MD") for more information on the metadata schema.
 
 
 ### Formats ###
